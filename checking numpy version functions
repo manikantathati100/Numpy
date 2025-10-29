@@ -1,0 +1,4 @@
+def my_function():
+    print(np.__version__)
+import numpy as np
+my_function()
