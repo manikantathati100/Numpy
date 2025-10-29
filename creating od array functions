@@ -1,0 +1,5 @@
+def my_function():
+    arr=np.array(42)
+    print(arr)
+import numpy as np
+my_function()
